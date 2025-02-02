@@ -1,3 +1,3 @@
 - Amateur research software developer
 - Math enthusiast
-- Open source software enthusiast
+- Interested in computer ethics & philosophy, FOSS software, and systems
